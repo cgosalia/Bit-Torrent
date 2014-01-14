@@ -1,0 +1,8 @@
+[763996.00] HANDSHAKE INIT, peer: 127.0.0.1, port: 16320,peer id:411f
+[764054.00] HANDSHAKE SUCCESS, peer: 127.0.0.1, port: 16320,peer id:411f
+[764084.00] MSG SENT BITFIELD, peer: 127.0.0.1, port: 16320,peer id:411f
+[764131.00] LEECHER INTERESTED, peer: 127.0.0.1, port: 16320,peer id:411f
+[765242.00] MESSAGE PIECE, peer: 127.0.0.1, port: 16320,id: 411f, index: 0,begin: 0,length: 8
+[765442.00] MESSAGE PIECE, peer: 127.0.0.1, port: 16320,id: 411f, index: 0,begin: 1,length: 8
+[765626.00] MESSAGE PIECE, peer: 127.0.0.1, port: 16320,id: 411f, index: 0,begin: 2,length: 8
+[765930.00] MESSAGE PIECE, peer: 127.0.0.1, port: 16320,id: 411f, index: 0,begin: 3,length: 6
